@@ -23,7 +23,7 @@
     font-family: 'Bubblegum Sans', cursive;
     background-color: var(--button-color);
     border-radius: 20px;
-    padding: 0 10px;
+    padding: 5px 10px;
 }
 
 .main-banner-description {

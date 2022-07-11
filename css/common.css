@@ -14,9 +14,11 @@ body {
 :root {
     /* font-family: 'Edu TAS Beginner', cursive; */
     font-family: 'Hind Siliguri', sans-serif;
-    --main-color: rgb(255, 219, 219);
+    --main-color: rgb(14, 12, 114);
     --button-color: #80e29d;
 }
+
+/* rgb(255, 219, 219) */
 
 img {
     width: 100%;
