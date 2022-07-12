@@ -18,6 +18,13 @@
     text-align: center;
 }
 
+.why-we-advantages {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
 .why-we .advantages-roller-skates-marker {
     width: 50px;
     border: 1px solid var(--marker-color);
