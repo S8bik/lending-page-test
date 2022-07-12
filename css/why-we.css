@@ -1,0 +1,51 @@
+.why-we .container {
+    max-width: 1200px;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.why-we-title {
+    max-width: 350px;
+    margin: 30px 0;
+    background-color: var(--button-color);
+    border-radius: 20px;
+    padding: 5px 5px;
+    border: 3px solid #fff;
+    color: var(--main-color);
+    text-align: center;
+}
+
+.why-we .advantages-roller-skates-marker {
+    width: 50px;
+    border: 1px solid var(--marker-color);
+    padding: 5px;
+    border-radius: 50%;
+    background-color: var(--marker-color);
+}
+
+.advantages-items {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-weight: 500;
+}
+
+.advantages-items > div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.advantages-img {
+    max-width: 500px;
+    margin-top: 50px;
+  
+}
+
+.advantages-img img {
+    border-radius: 40px;
+}

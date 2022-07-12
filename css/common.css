@@ -14,8 +14,9 @@ body {
 :root {
     /* font-family: 'Edu TAS Beginner', cursive; */
     font-family: 'Hind Siliguri', sans-serif;
-    --main-color: rgb(14, 12, 114);
-    --button-color: #80e29d;
+    --main-color: #E664AA;
+    --button-color: #41D6F0;
+    --marker-color: rgb(255, 219, 219);
 }
 
 /* rgb(255, 219, 219) */
@@ -32,4 +33,9 @@ a {
 
 ul {
     list-style-type: none;
+}
+
+button {
+    border: none;
+    background: none;
 }
